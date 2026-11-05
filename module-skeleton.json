@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-work-management-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-work-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-work-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/work-management.md",
+  "presentationPlan": "projects/crm/nuxt/work-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
